@@ -1,53 +1,22 @@
-# Project Title
+# Infinity Scroll
 
-A brief description of what this project does and who it's for
+This project demonstrates how to implement an infinite scrolling feature using the Unsplash API. The project uses JavaScript to fetch a set of random images from the API and display them in an image gallery on the web page. As the user scrolls down the page, more images are loaded dynamically, providing a seamless user experience.
 
-## Table of Contents
+## How to Use
 
-- [Project Title](#project-title)
-  - [Table of Contents](#table-of-contents)
-  - [About the Project](#about-the-project)
-  - [Getting Started](#getting-started)
-    - [Prerequisites](#prerequisites)
-    - [Installation](#installation)
-  - [Usage](#usage)
-  - [Contributing](#contributing)
-  - [License](#license)
-  - [Contact](#contact)
-  - [Acknowledgements](#acknowledgements)
+- Clone the repository or download the files to your local machine.
+- Get your own access key from Unsplash Developer.
+- Replace the placeholder access key in script.js with your own access key.
+- Open index.html in your web browser to see the image gallery.
+- Scroll down to see more images loaded dynamically.
 
-## About the Project
+## Technologies Used
 
-Include a more detailed overview of the project here. What problem does it solve? What are its features?
+- HTML
+- CSS
+- JavaScript
+- Unsplash API
 
-## Getting Started
+## Resources
 
-Include instructions for setting up the project locally.
-
-### Prerequisites
-
-List any software or packages that users need to have installed before running this project.
-
-### Installation
-
-Provide detailed steps for installing the project.
-
-## Usage
-
-Include instructions on how to use the project. Provide examples if possible.
-
-## Contributing
-
-Include instructions for others to contribute to the project, if applicable.
-
-## License
-
-Include information about the project's license.
-
-## Contact
-
-Include contact information for the project's creators or maintainers.
-
-## Acknowledgements
-
-Include any acknowledgements or credits for external resources that were used in the project.
+- [Unsplash API Documentation](https://unsplash.com/documentation)
